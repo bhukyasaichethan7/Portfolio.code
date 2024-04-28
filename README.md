@@ -28,7 +28,7 @@
     <div class="home-content" id="home-page">
       <div class="name">
         <h1>Hi, I'm Sai chethan</h1>
-        <p>A Web Developer in training.</p>
+        <p>Business developer associate.</p>
       </div>
       <div class="angle-down-icon">
         <a href="#about"><i class="fas fa-angle-down"></i></a>
@@ -44,7 +44,7 @@
           </div>
           <img src="https://i.postimg.cc/Hx4nChpH/fbavatar-1630400663387-6838396024049256103.png" alt="image" />
           <p>
-            I am 21 year old, B-Tech student pursuing at bharat institute of higher education and research, chennai. 
+            I am Bhukya Saichethan from Telangana,warangal. And Iam completed my undergraduatuin at bharat institute of higher education and research,chennai. 
             I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new
             things; the more, the better.
           </p>
@@ -108,7 +108,7 @@
       </div>
       <div class="portfolio-content container">
         <div class="proj-1">
-          <img src="https://i.postimg.cc/qM9TjGTG/Screenshot-80.png">
+          <img src="https://photos.app.goo.gl/6vWiACWMyM4drDiB9p">
           <div class="proj1-details">
             <i class="fab fa-html5"></i>
             <i class="fab fa-css3-alt"></i>
